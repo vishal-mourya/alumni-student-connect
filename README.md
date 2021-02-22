@@ -1,16 +1,27 @@
-# alumnistudentconnect
+# Alumni Student Connect App Made With Flutter
 
-A new Flutter application.
+### About :
 
-## Getting Started
+- A Simple App made to connect college Alumni's with college students, for various reasons like Guidance, Support, Bridging the gap between industry and ciruculum of colleges,etc
 
-This project is a starting point for a Flutter application.
+- One can learn how to call API's,User Defined Widgets,Efficiency of code, async and await and many more stuffs in this flutter App
+<br> <br>
 
-A few resources to get you started if this is your first Flutter project:
+![s1](https://github.com/vishal-mourya/alumni-student-connect/blob/main/pics/s1.png?raw=true) <br> <br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![s2](https://github.com/vishal-mourya/alumni-student-connect/blob/main/pics/s2.png?raw=true) <br> <br>
+![s3](https://github.com/vishal-mourya/alumni-student-connect/blob/main/pics/s3.png?raw=true) <br> <br>
+![s4](https://github.com/vishal-mourya/alumni-student-connect/blob/main/pics/s4.png?raw=true) <br> <br>
+![s5](https://github.com/vishal-mourya/alumni-student-connect/blob/main/pics/s5.png?raw=true) <br> <br>!
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Still Working on Improvements
+
+## Improving This Project
+
+If you feel like I am missing out steps, feel free to make a pull request and contribute to this project. [Github Repo](https://github.com/vishal-mourya/climatge-app)
+
+Would Love to Collaborate with anyone who wishes :)
+
+Thanks & Regards <br>
+[Vishal Mourya](https://www.linkedin.com/in/vishal-mourya-a4245b18b/)
